@@ -1,0 +1,24 @@
+# RetailPulse: AI-Powered E-Commerce Business Intelligence Dashboard
+# Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+plotly>=5.13.0
+
+# Dashboard framework
+streamlit>=1.22.0
+
+# Jupyter Notebook support
+notebook>=6.5.0
+ipykernel>=6.21.0
+jupyter>=1.0.0
+
+# Optional: export notebook to HTML/PDF
+nbconvert>=7.2.0
+
+# Utilities
+openpyxl>=3.1.0
